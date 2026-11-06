@@ -6,7 +6,7 @@ import subprocess
 from pathlib import Path
 
 
-REPO_URL = 'https://github.com/ArsalanMHRF1999/LoRaFBSNet_Wang_Model.git'
+REPO_URL = 'https://github.com/javdaninasim/LoRaFBSNet_Wang_Model.git'
 BRANCH = 'main'
 
 ENTRYPOINT = 'main.py'
