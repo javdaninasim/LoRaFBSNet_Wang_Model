@@ -31,7 +31,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 
-KAGGLE_ID = "mohammadmehranfar/lorafb-snet-experiments"
+KAGGLE_ID = "javdaninasim/lorafb-snet-experiments"
 KAGGLE_TITLE = "LoRaFB-SNet Experiments"
 
 PROJECT_ENTRYPOINT = "main.py"
