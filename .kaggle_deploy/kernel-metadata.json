@@ -10,7 +10,7 @@
     "competition_sources": [],
     "kernel_sources": [],
     "model_sources": [
-        "mohammadmehranfar/lora-weights/pytorch/default/1"
+        
     ],
     "dataset_sources": [
         "matthewjansen/ucf101-action-recognition"
